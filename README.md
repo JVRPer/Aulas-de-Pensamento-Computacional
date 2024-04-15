@@ -10,3 +10,6 @@ Meu nome é João Vitor Ribeiro, atualmente sou estudante de Ciências da Comput
 
       - Aos poucos estou me adaptando com algumas novas coisas que estão acontecendo em minha vida,
       estou me desafiando um pouco todos os dias.
+      
+
+Por enquanto é isso, atualizo com novos projetos sempre quando der. Muito obrigado você quem leu!
