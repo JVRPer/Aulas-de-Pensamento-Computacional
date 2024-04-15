@@ -2,7 +2,7 @@
 
 Olá! 
 
-Meu nome é João Vitor Ribeiro! 
+Meu nome é João Vitor Ribeiro, atualmente sou estudante de Ciências da Computação na Atitus Educação de Porto Alegre, Rio Grande do Sul.
 
       - Atualmente sou estudante de Ciências da Computação na Atitus Educação.
       
