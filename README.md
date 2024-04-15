@@ -1,7 +1,9 @@
 # Aulas-de-Pensamento-Computacional
 
-Olá! Meu nome é João Vitor Ribeiro! 
+Olá! 
 
-      Atualmente sou estudante de Ciências da Computação na Atitus Educação.
+Meu nome é João Vitor Ribeiro! 
 
-      Atulamente estou aprendendo a programar na linguagem Python, aos poucos estou aprendendo.
+      - Atualmente sou estudante de Ciências da Computação na Atitus Educação.
+      
+      - Estou também aprendendo a programar em Python, ainda estou aprendendo aos poucos.
